@@ -1,0 +1,40 @@
+#search_link {
+    float: right;
+    text-decoration: none;
+    color: #000;
+    font-size: 15px;
+}
+#search_link:hover {
+    text-decoration: underline;
+}
+#links {
+    padding: 10px;
+}
+#container {
+    padding: 30px;
+   
+}
+h3 {
+    color: red;
+}
+.searchbar-sm {
+    margin-left: 30px;
+    width: 550px;
+    height: 30px;
+}
+.searchbar-sm:hover {
+    box-shadow: 0 0 1px 1px #888888;
+    outline: none;
+}
+.text-input-table {
+    border-collapse: separate;
+    border-spacing: 0 20px;
+}
+
+
+
+/* 
+    TO DO
+    style the button
+    style the rest of the page
+ */
